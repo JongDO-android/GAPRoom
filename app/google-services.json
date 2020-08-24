@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010724279294",
+    "firebase_url": "https://gaproom-7365a.firebaseio.com",
+    "project_id": "gaproom-7365a",
+    "storage_bucket": "gaproom-7365a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010724279294:android:b5d102009b101ce539a6af",
+        "android_client_info": {
+          "package_name": "org.techtown.gaproom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010724279294-tog1rla6b51vlbn2t30gkdrqpcu6oddc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.gaproom",
+            "certificate_hash": "e188b8db4628425cb2e65a5b3c39a2ea8cb1073d"
+          }
+        },
+        {
+          "client_id": "1010724279294-j00bqcqo8fmv341rchjeu9590uap5un3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYmkKONnBtEe0fvQlWBs3TofmnNrGVLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010724279294-j00bqcqo8fmv341rchjeu9590uap5un3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="room_form">
+        <item>원룸</item>
+        <item>투/쓰리룸</item>
+        <item>오피스텔</item>
+        <item>단독 주택</item>
+        <item>아파트</item>
+    </string-array>
+</resources>

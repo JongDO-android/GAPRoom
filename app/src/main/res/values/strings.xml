@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">틈새방</string>
+    <string name="gaproom">틈새방</string>
+    <string name="noticeboard">게시판</string>
+    <string name="write">게시글 작성</string>
+    <string name="enroll">게시글 등록</string>
+    <string name="profile">프로필</string>
+    <string name="nickname">닉네임 : </string>
+    <string name="gender">성별 : </string>
+    <string name="Logout">로그아웃</string>
+    <string name="google_app_key">AIzaSyDjgqlY1TvgmH_CjoBjf7bjOA37EMBP_n4</string>
+    <string name="kakao_app_key">3c12bf3840b4d545753a09768f005df3</string>
+    <string name="title">제목</string>
+    <string name="input">내용을 입력해주세요.</string>
+    <string name="kakao">카카오톡으로 로그인</string>
+    <string name="until">지금까지</string>
+    <string name="not_room">이런 방은 없.었.다</string>
+    <string name="your">당신의 틈새를 공략할</string>
+    <string name="service">신개념 주거 서비스</string>
+    <string name="one_night">(1박)</string>
+    <string name="per_one_night">※1박 당 가격을 적어주세요</string>
+
+    <string name="current">현재 위치</string>
+
+    <string name="sublet">전대</string>
+    <string name="lodgement">숙박</string>
+    <string name="careful">주의사항</string>
+    <string name="price">가격</string>
+    <string name="slide">|</string>
+    <string name="m">~</string>
+    <string name="yyyymmdd">0000.00.00</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--Add Room Fragment-->
+    <string name="address">주소</string>
+    <string name="phone_number">연락처</string>
+    <string name="rent_period">임대 기간</string>
+    <string name="search_address">우편 검색</string>
+    <string name="select">선택</string>
+    <string name="address_detail">상세 주소</string>
+    <string name="cancel">취소</string>
+    <string name="jibun">지번</string>
+    <string name="start_day">임대 시작 날짜</string>
+    <string name="end_day">임대 종료 날짜</string>
+    <string name="introduce">집 소개</string>
+    <string name="intro">간략한 집 소개 작성을 해주세요!</string>
+    <string name="add">등록</string>
+    <string name="add_room">방 등록</string>
+    <string name="find_room">방 찾기</string>
+    <string name="room_info">거주 환경 정보</string>
+    <string name="room_form">주거 형태</string>
+    <string name="floor_width">층수 / 평수</string>
+    <string name="floor">층수</string>
+    <string name="floor_a">층</string>
+    <string name="width">평수</string>
+    <string name="width_a">평</string>
+    <string name="picture">사진 등록</string>
+    <string name="call">방 주인에게 전화하기</string>
+
+    <string name="anonymous">익명</string>
+    <string name="like_number">좋아요</string>
+    <string name="zero">0</string>
+
+    <string name="check_in">체크인</string>
+    <string name="check_out">체크아웃</string>
+
+    <!--방 찾기-->
+    <string name="current_location">현재 위치로 찾기</string>
+    <string name="address_location">다른 주소로 찾기</string>
+
+    <!--게시판-->
+    <string name="content">내용</string>
+    <string name="plz_input_content">내용을 입력해주세요</string>
+    <string name="review">댓글</string>
+    <string name="date">게시 날짜</string>
+    <string name="comment_number">댓글 수</string>
+    <string name="comment">댓글</string>
+    <string name="space">  ·  </string>
+
+</resources>
